@@ -1,0 +1,33 @@
+{
+	"name": "bala.CheatingLink",
+	"version": "0.0.1",
+	"title": "bala.CheatingLink",
+	"description": "A jQuery plugin to let the <a> tag has more than one url",
+	"keywords": [
+		"a",
+		"link"
+	],
+	"author": {
+		"name": "Bala Chuang",
+		"email": "balachuang@gmail.com"
+	},
+	"maintainers": [
+		{
+			"name": "Bala Chuang",
+			"email": "balachuang@gmail.com"
+		}
+	],
+	"licenses": [
+		{
+			"type": "GPLv2",
+			"url": "http://www.example.com/licenses/gpl.html"
+		}
+	],
+	"bugs": "https://github.com/balachuang/CheatingLink/issues",
+	"homepage": "https://github.com/balachuang/CheatingLink",
+	"docs": "https://github.com/balachuang/CheatingLink",
+	"download": "https://github.com/balachuang/CheatingLink/archive/master.zip",
+	"dependencies": {
+		"jquery": ">=1.6"
+	}
+}
