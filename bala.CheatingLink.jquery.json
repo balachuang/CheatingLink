@@ -1,8 +1,8 @@
 {
 	"name": "bala.CheatingLink",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"title": "bala.CheatingLink",
-	"description": "a jQuery plugin to make &lt;a&gt; tag link to more than one url",
+	"description": "A jQuery plugin to make &lt;a&gt; tag link to more than one url",
 	"keywords": [
 		"a",
 		"link"
