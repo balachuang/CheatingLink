@@ -1,7 +1,7 @@
 CheatingLink
 ============
 
-A jQuery plugin to let the &lt;a> tag has more than one url. The target url of the specific &lt;a> will be replaced according to where you click. For example, you have a &lt;a> tag in your page like:
+CheatingLink is a jQuery plugin to make &lt;a> tag link to more than one url. The target url of the specific &lt;a> will be replaced according to where you click. For example, you have a &lt;a> tag in your page like:
 
 &lt;a href="xxx" target="_new">This is a test&lt;/a>
 
