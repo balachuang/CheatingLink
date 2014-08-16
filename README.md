@@ -5,7 +5,7 @@ bala.CheatingLink is a jQuery plugin to make &lt;a> tag link to more than one ur
 
 For example, you have a &lt;a> tag in your page like:
 
-&lt;a href="xxx" target="_new">This is a test&lt;/a>
+&lt;a id="linkTest" href="xxx" target="_new">This is a test&lt;/a>
 
 Then you add 2 urls to this tag by applying this plugin:
 
