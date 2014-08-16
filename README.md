@@ -1,7 +1,9 @@
-CheatingLink
+bala.CheatingLink
 ============
 
-CheatingLink is a jQuery plugin to make &lt;a> tag link to more than one url. The target url of the specific &lt;a> will be replaced according to where you click. For example, you have a &lt;a> tag in your page like:
+bala.CheatingLink is a jQuery plugin to make &lt;a> tag link to more than one url. When adding more than one url, You can control the active url by the position you click.
+
+For example, you have a &lt;a> tag in your page like:
 
 &lt;a href="xxx" target="_new">This is a test&lt;/a>
 
