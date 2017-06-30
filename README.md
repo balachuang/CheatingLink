@@ -14,3 +14,6 @@ $('#linkTest').CheatingLink({
 });
 
 Now, when you click the left half of the link (click on "This is"), it will navigate to Google Homepage in a new tab. When you click the right half of the link (click on "a test"), the Yahoo Homepage is created in the a tab.
+
+
+* How to registry a jQuery Plugin through Github - Ref: https://github.com/jquery-boilerplate/jquery-boilerplate/wiki/How-to-publish-a-plugin-in-jQuery-Plugin-Registry
